@@ -53,6 +53,6 @@ It combines three models from Hugging Face: GPT-2 Detector, Zero-Shot Classifier
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/Identifying-Machine-Generated-Text.git
+git clone https://github.com/shahd1995913/Identifying-Machine-Generated-Text.git
 cd Identifying-Machine-Generated-Text
 pip install -r requirements.txt
